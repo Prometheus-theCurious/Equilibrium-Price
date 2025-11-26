@@ -1,1 +1,1 @@
-# Prezzo_Di_Equilibrio
+A school project made for economy class
